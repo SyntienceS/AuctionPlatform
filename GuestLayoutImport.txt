@@ -1,0 +1,7 @@
+<script setup lang="ts">
+import GuestLayout from '@/layouts/GuestLayout.vue';
+
+defineOptions({
+    layout: GuestLayout,
+});
+</script>
